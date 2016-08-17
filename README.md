@@ -1,5 +1,5 @@
 # eatSnake
-JS贪吃蛇小游戏
+JS贪吃蛇小游戏 [在线演示](http://htmlpreview.github.io/?https://github.com/DMQ/eatSnake/master/snake.html)
 
 1. 下载eat-snake.html及eat-snake.js
 2. 确保eat-snake.html引用的eat-snake.js路径是正确的
